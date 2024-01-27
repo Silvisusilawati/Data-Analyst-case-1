@@ -1,7 +1,8 @@
 Study Case: Data Analyst for E-commerce Company
 
 # Data-Analyst-case-1
-An e-commerce company is experiencing a slow decrease in the average number of comments per user from January to March in a new city where they have recently launched. The company has been consistently growing new users in the city from January to March. The company wants to understand the reasons behind this decrease and what metrics to look into.
+An e-commerce company is experiencing a slow decrease in the average number of comments per user from January to March in a new city where they have recently launched. 
+The company has been consistently growing new users in the city from January to March. The company wants to understand the reasons behind this decrease and what metrics to look into.
 Task: As a data analyst, your task is to:
 
 Analyze the given dataset and identify the reasons for the decrease in the average number of comments per user.
@@ -19,11 +20,13 @@ Data Cleaning and Preparation:
 Check for missing values and remove or impute them as necessary.
 Ensure that the data is in the correct format and that all variables are of the appropriate data type.
 Create new variables if necessary, such as a variable for the month of the comment.
+
 Data Analysis:
 Calculate the average number of comments per user for each month and compare them.
 Analyze the distribution of comments across users and identify any patterns or trends.
 Investigate the relationship between the number of comments and other variables, such as the time of day or the day of the week.
 Check for any differences in the distribution of comments between users in different cities.
+
 Insights and Recommendations:
 Identify the reasons for the decrease in the average number of comments per user.
 Propose a solution to address this issue.
