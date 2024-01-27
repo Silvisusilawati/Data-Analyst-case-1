@@ -1,0 +1,9 @@
+SELECT
+EXTRACT (MONTH FROM date_of_comment) AS month,
+AVG (number_of_comment) AS avg_comments_per_user
+FROM
+ ecommerce_company_user_comment_data
+GROUP BY
+ month
+ORDER BY
+Month
